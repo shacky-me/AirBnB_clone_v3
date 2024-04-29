@@ -17,6 +17,7 @@ The console is the first segment of the AirBnB project at Holberton School that 
 * [Bugs](#bugs)
 * [Authors](#authors)
 * [License](#license)
+* [New Contributions in v3](#new-contributions-in-v3)
 
 ## Environment
 This project is interpreted/tested on Ubuntu 14.04 LTS using python3 (version 3.4.3)
@@ -154,9 +155,14 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
+Meshack Kiprono - [Github](https://github.com/shacky-me) / [Twitter](https://twitter.com/shackyme)
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
 
 Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
+
+## New Contributions in v3:
+* This version of the AirBnB clone introduces several enhancements
+* My additions aim to provide a more user-friendly and feature-rich Airbnb clone experience.
